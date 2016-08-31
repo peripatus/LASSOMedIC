@@ -1,0 +1,9 @@
+                          sens 	 0.6000 +/- 0.0000 
+                          spec 	 0.7000 +/- 0.0000 
+                           Acc 	 0.6500 +/- 0.0000 
+                        Fscore 	 0.6316 +/- 0.0000 
+                             L 	 0.5402 +/- 0.0000 
+                        #areas 	 2.0000 +/- 1.4286 
+
+                     BrainArea 	 freqMax 	 mean 	 std 
+               Cingulum_Post_L 	   80.00 	 -3.734410e-01	   0.28 

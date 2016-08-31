@@ -1,0 +1,13 @@
+                          sens 	 0.7667 +/- 0.0577 
+                          spec 	 0.6667 +/- 0.0577 
+                           Acc 	 0.7167 +/- 0.0289 
+                        Fscore 	 0.7297 +/- 0.0310 
+                             L 	 0.6130 +/- 0.0072 
+                        #areas 	 7.6333 +/- 1.4499 
+
+                     BrainArea 	 freqMax 	 mean 	 std 
+               Cingulum_Post_L 	  100.00 	 -1.068910e+00	   0.41 
+                   Olfactory_L 	   90.00 	 -6.807748e-01	   0.38 
+             Supp_Motor_Area_R 	  100.00 	 -5.550919e-01	   0.34 
+           Temporal_Pole_Mid_R 	   83.33 	 3.451902e-01	   0.27 
+           Temporal_Pole_Mid_L 	   80.00 	 3.483740e-01	   0.25 
